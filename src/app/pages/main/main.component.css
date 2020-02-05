@@ -1,8 +1,6 @@
 .sidenav-content {
   display: flex;
-  height: calc(100vh - 104px);
-  /* align-items: center;
-  justify-content: center; */
+  height: calc(100vh - 96px);
   flex-direction: column;
   padding: 20px;
 }
